@@ -7,8 +7,12 @@
 4) Sobre la clase renombrada, seguir trabajando en lo que veniamos
 
 5) Agregar el proyecto de libreria a la solucion
-    dotnet add sln ./RepasoPersonas
+    dotnet add sln ./RepasoPersona.Core/RepasoPersona.Core.csproj
+
 6)
+
 7)
+
 8)
+
 9)
